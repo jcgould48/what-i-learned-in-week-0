@@ -45,3 +45,20 @@ Some of the things I learned about Git:
     * `git push`
     * `git status`: will tell you the staus of the file in this process 
 
+**markdown**
+
+Description:
+
+A lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+
+Some of the things I learned about markdown:
+
+*  It is simple but extremely versatile and can used for a wide variety of end products
+
+*  Language intuitive for text formatting
+    * ##: Makes text more prominent like a title
+    * Surrounded with **: Makes text **bold**
+    * Surround with *: Makes text *italicized*
+    * "*": Adds bullet points 
+
+ 
