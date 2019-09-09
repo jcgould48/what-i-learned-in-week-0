@@ -24,3 +24,24 @@ Some of the things that I learned about Bash:
     * `rm`: Removes files or directories
     * `mv`: Moves files or directories to chosen location
     * `cp`: Copies files or directories to chosen location
+
+**Git**
+
+Description:
+
+A system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
+Some of the things I learned about Git:
+
+* The importance of Git for coding in teams and tracking changes
+
+* Problems can arrise when there are contradictory changes occurring at the same time
+
+* GitHub has become a popular repository for code
+
+* To properly upload a new file to an individual's GitHub repository they must use these commands in Bash
+    * `git add [file name or .]`
+    * `git commit -m "description of changes"`
+    * `git push`
+    * `git status`: will tell you the staus of the file in this process 
+
